@@ -6,9 +6,11 @@
      (NodeJS)
   source: https://github.com/juancjara/web-rtc
 - 
-  name: Chrome extension reminder TODO
-  desc: bla bla
-  source: https://www.google.com
+  name: Reminder TODO
+  desc: >-
+    Chrome extension to remind anything in a near future. Simple as typing on an Omnibox
+     "remind 10 to do something" so in 10 minutes you would get a reminder. (Javascript ES6)
+  source: https://github.com/juancjara/chrome-extension-starter
 - 
   name: Cinema Twitter bot 
   desc: >-
@@ -28,25 +30,19 @@
     (C)
   source: https://www.google.com
 - 
-  name: Phonebook
-  desc: >-
-    Project created for interview prep day on Recurse Center. Command line tool that manages phone
-    books file to SCRUD contacts data. (NodeJS, Mocha)
-  source: https://github.com/juancjara/phone-book
-- 
   name: Json to survey
   desc: Create a survey with question dependencies from a json schema. (Javascript)
   source: https://github.com/juancjara/json-to-survey
 - 
   name: Comment Box Om
-  desc: A simple but realistic comments box based on ReactJS tutorial. (Om, Clojurescript)
+  desc: A simple but realistic comments box based on ReactJS tutorial. (Om - Clojurescript)
   source: https://github.com/juancjara/Comment-box-Om
 - 
   name: Url shortener
-  desc: Project created for interview prep day on Recurse Center. (Clojure, clojurescript)
+  desc: Project created for interview prep day on Recurse Center. (Clojure - clojurescript)
   source: https://github.com/juancjara/url-shortener
 - 
-  name: Twitch short cuts 
+  name: TwitchTV shortcuts 
   desc: >-
     Chrome extension to control TwitchTV pastbroadcast videos using keyboards shortcuts.
     Also, it saves the last state of the video to be resume next time you watch it. (Javascript)
@@ -55,41 +51,71 @@
     url: https://chrome.google.com/webstore/detail/twitch-keyboard-shortcuts/pfdnkciodgpiannbheoheddfdnkbboha?hl=es-419
     title: Chrome Web Store
 - 
-  name: shark with laser beams
-  desc: 
-  source: 
+  name: Sharks with laser beams
+  desc: >-
+    A utility for arming (creating) many sharks (DigitalOcean Droplets) to attack (load test)
+    targets (web applications). (NodeJS)
+  source: https://github.com/juancjara/sharks-with-laser-beams
 - 
-  name: dota practice
-  desc: bla bla
-  source: https://www.google.com
+  name: Phonebook
+  desc: >-
+    Project created for interview prep day on Recurse Center. Command line tool that manages phone
+    books file to SCRUD contacts data. (NodeJS - Mocha)
+  source: https://github.com/juancjara/phone-book
+- 
+  name: Dota practice
+  desc: Web simulator of the MOBA Dota 2 to practice hero combinations. (Coffee - ReactJS - Mocha)
+  source: https://github.com/juancjara/dota-game
   app:
     url: http://www.dotapractice.com
     title: Dota practice
 -
-  name: no hay basico
-  desc: bla bla
-  source: https://www.google.com
+  name: No hay basico
+  desc: >-
+    Web Application which displays information about restaurants around my university such as
+    location, daily menu, ect. (NodeJS - MongoDB - ReactJS)
+  source: https://github.com/andreqi/nohaybasico
+  app:
+    url: http://www.nohaybasico.com
+    title: Nohaybasico
 - 
-  name: me voy x 20
-  desc: asdf
-  source: https://www.google.com
+  name: Me voy por 20
+  desc: >-
+    Web Application which helps students of my university to simulate and find the average
+    grade of a course based on its formula. (NodeJS - MongoDB - ReactJS)
+  source: https://github.com/juancjara/Grades-project
+  app:
+    url: http://104.131.28.224:8765
+    title: Mevoyx20
 - 
-  name: money app firefox os
-  desc: bla bla
-  source: https://www.google.com
+  name: Handle budget FxOS
+  desc: Firefox OS app to handle easily handle your budget. (Javascript ES6 - Less)
+  source: https://github.com/juancjara/money-app-firefox-os 
+  app:
+    url: https://marketplace.firefox.com/app/budget/
+    title: Firefox Marketplace
 - 
-  name: my hangout
-  desc: bla bla
-  source: https://www.google.com
+  name: My hangout
+  desc: Simple version of gmail chat. (NodeJS - ReactJS - MongoDB - SocketIO)
+  source: https://github.com/juancjara/my-hangout
+  app:
+    url: http://104.131.28.224:8001/
+    title: My hangout
 - 
-  name: guitar hero firefox os
-  desc: bla bla
-  source: https://www.google.com
+  name: Guitar Hero FxOS
+  desc: Guitar hero game version for firefox OS phone
+  source: https://github.com/juancjara/guitar-hero-firefox-os
+  app:
+    url: https://marketplace.firefox.com/app/guitar-heroes-2/
+    title: Firefox Marketplace
 - 
-  name: corredor azul
-  desc: bla bla
-  source: https://www.google.com
+  name: Corredor Azul
+  desc: Android app which finds what bus you should take to travel betweentwo bus stops. (Android)
+  source: https://github.com/juancjara/Mvp
+  app:
+    url: https://play.google.com/store/apps/details?id=com.tryhard.mvp.app&hl=es_419
+    title: Play Store
 - 
-  name: lmgtfy
-  desc: bla bla
-  source: https://www.google.com
+  name: LMGTFY
+  desc: Chrome extension to create a query and place it in the copy buffer basedon Let me google that for you webpage. (Javascript - Stylus)
+  source: https://chrome.google.com/webstore/detail/deja-que-busque-eso-en-go/kaamhgpodjkbdapnammkdnojlofcgfhe?utm_source=chrome-ntp-icon&authuser=1

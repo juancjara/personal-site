@@ -1,59 +1,70 @@
 --- 
 - 
   name: Video chat app WebRTC
-  desc: bla bla
-  source: https://www.google.com
+  desc: >-
+    Simple WebRTC video chat application using Web sockets or Firebase as Signalling servers. 
+     (NodeJS)
+  source: https://github.com/juancjara/web-rtc
 - 
-  name: Chrome extension reminder
+  name: Chrome extension reminder TODO
   desc: bla bla
   source: https://www.google.com
 - 
   name: Cinema Twitter bot 
-  desc: bla bla
-  source: https://www.google.com
+  desc: >-
+    Twitter bot that listens for tweets which contain movie and cinema and retweet the schedule.
+    (NodeJS - MongoDB)
+  source: https://github.com/juancjara/twitch-tv-keyboard-shortcuts
 - 
   name: Dynamic key shortcuts
-  desc: bla bla
-  source: https://www.google.com
+  desc: >-
+    Paste this script on your browser console and create custom shortcuts to any element on it.
+    (Javascript)
+  source: https://github.com/juancjara/dynamic-key-shortcuts
 - 
-  name: 2048
-  desc: bla bla
+  name: 2048 game TODO
+  desc: >-
+    Simple terminal version of 2048 without pointers. Focus on writing clean code and easy to read.
+    (C)
   source: https://www.google.com
 - 
   name: Phonebook
-  desc: bla bla
-  source: https://www.google.com
+  desc: >-
+    Project created for interview prep day on Recurse Center. Command line tool that manages phone
+    books file to SCRUD contacts data. (NodeJS, Mocha)
+  source: https://github.com/juancjara/phone-book
 - 
-  name: Cinema twitter bot
-  desc: bla bla
-  source: https://www.google.com
+  name: Json to survey
+  desc: Create a survey with question dependencies from a json schema. (Javascript)
+  source: https://github.com/juancjara/json-to-survey
 - 
-  name: json to survey
-  desc: bla bla
-  source: https://www.google.com
+  name: Comment Box Om
+  desc: A simple but realistic comments box based on ReactJS tutorial. (Om, Clojurescript)
+  source: https://github.com/juancjara/Comment-box-Om
 - 
-  name: To-do Om
-  desc: bla bla
-  source: https://www.google.com
+  name: Url shortener
+  desc: Project created for interview prep day on Recurse Center. (Clojure, clojurescript)
+  source: https://github.com/juancjara/url-shortener
 - 
-  name: url shortener cjs
-  desc: bla bla
-  source: https://www.google.com
-- 
-  name: twitch short cuts 
-  desc: bla bla
-  source: https://www.google.com
+  name: Twitch short cuts 
+  desc: >-
+    Chrome extension to control TwitchTV pastbroadcast videos using keyboards shortcuts.
+    Also, it saves the last state of the video to be resume next time you watch it. (Javascript)
+  source: https://github.com/juancjara/twitch-tv-keyboard-shortcuts
+  app: 
+    url: https://chrome.google.com/webstore/detail/twitch-keyboard-shortcuts/pfdnkciodgpiannbheoheddfdnkbboha?hl=es-419
+    title: Chrome Web Store
 - 
   name: shark with laser beams
-  desc: bla bla
-  source: https://www.google.com
+  desc: 
+  source: 
 - 
   name: dota practice
   desc: bla bla
   source: https://www.google.com
   app:
     url: http://www.dotapractice.com
-    title: Dota Practice
+    title: Dota practice
 -
   name: no hay basico
   desc: bla bla

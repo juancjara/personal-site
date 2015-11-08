@@ -1,77 +1,84 @@
 --- 
 - 
-  title: Video chat app WebRTC
+  name: Video chat app WebRTC
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: Chrome extension reminder
+  name: Chrome extension reminder
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: Cinema Twitter bot 
+  name: Cinema Twitter bot 
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: Dynamic key shortcuts
+  name: Dynamic key shortcuts
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: 2048
+  name: 2048
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: Cinema twitter bot
+  name: Phonebook
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: json to survey
+  name: Cinema twitter bot
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: To-do Om
+  name: json to survey
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: url shortener cjs
+  name: To-do Om
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: twitch short cuts 
+  name: url shortener cjs
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: shark with laser beams
+  name: twitch short cuts 
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: dota practice
+  name: shark with laser beams
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: no hay basico
+  name: dota practice
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
+  app:
+    url: http://www.dotapractice.com
+    title: Dota Practice
+-
+  name: no hay basico
+  desc: bla bla
+  source: https://www.google.com
 - 
-  title: me voy x 20
+  name: me voy x 20
   desc: asdf
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: money app firefox os
+  name: money app firefox os
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: my hangout
+  name: my hangout
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: guitar hero firefox os
+  name: guitar hero firefox os
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: corredor azul
+  name: corredor azul
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com
 - 
-  title: lmgtfy
+  name: lmgtfy
   desc: bla bla
-  url: https://www.google.com
+  source: https://www.google.com

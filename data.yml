@@ -60,7 +60,7 @@
 - 
   name: 2048 game
   desc: >-
-    Simple terminal version of 2048 without pointers. Focus on writing clean code and easy to read.
+    Simple terminal version of 2048 without pointers. Focus on writing readable and clean code.
     (C)
   source: https://github.com/juancjara/2048-terminal
 - 

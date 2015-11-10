@@ -1,4 +1,10 @@
 --- 
+-
+  name: Movie Rate React Native
+  desc: >-
+    React native version of an movie festival Android app that rate movies
+     watched. (React Native)
+  source: https://github.com/juancjara/movie-rate-react-native
 - 
   name: Video chat app WebRTC
   desc: >-

@@ -1,127 +1,123 @@
 --- 
 -
-  name: Movie Rate React Native
+  name: Movie Rate App (React Native)
   desc: >-
     React native version of an movie festival Android app that rate movies
      watched. (React Native)
   source: https://github.com/juancjara/movie-rate-react-native
 - 
-  name: Video chat app WebRTC
+  name: Video chat app WebRTC (Nodejs)
   desc: >-
     Simple WebRTC video chat application using Web sockets or Firebase as Signalling servers. 
-     (NodeJS)
   source: https://github.com/juancjara/web-rtc
 - 
-  name: Reminder TODO
+  name: Reminder Chrome Extension (Javascript ES6)
   desc: >-
-    Chrome extension to remind anything in a near future. Simple as typing on an Omnibox
-     "remind 10 to do something" so in 10 minutes you would get a reminder. (Javascript ES6)
+    Simple as typing on an Omnibox "remind 10 to do something" so in 10 minutes
+     you would get a reminder.
   source: https://github.com/juancjara/chrome-extension-starter
 - 
-  name: Cinema Twitter bot 
+  name: Cinema Twitter bot (NodeJS - MongoDB)
   desc: >-
     Twitter bot that listens for tweets which contain movie and cinema and retweet the schedule.
-    (NodeJS - MongoDB)
   source: https://github.com/juancjara/twitch-tv-keyboard-shortcuts
 - 
-  name: Dota practice
-  desc: Web simulator of the MOBA Dota 2 to practice hero combinations. (Coffee - ReactJS - Mocha)
+  name: Dota practice (Coffeescript - ReactJS - Mocha)
+  desc: Web simulator of the MOBA Dota 2 to practice hero combinations.
   source: https://github.com/juancjara/dota-game
   app:
     url: http://www.dotapractice.com
     title: Dota practice
 - 
-  name: Dynamic key shortcuts
+  name: Dynamic key shortcuts (Javascript)
   desc: >-
     Paste this script on your browser console and create custom shortcuts to any element on it.
-    (Javascript)
   source: https://github.com/juancjara/dynamic-key-shortcuts
 - 
-  name: Json to survey
-  desc: Create a survey with question dependencies from a json schema. (Javascript)
+  name: Json to survey (Javascript)
+  desc: Create a survey with question dependencies from a json schema.
   source: https://github.com/juancjara/json-to-survey
 - 
-  name: Comment Box Om
-  desc: A simple but realistic comments box based on ReactJS tutorial. (Om - Clojurescript)
+  name: Comment Box Om (Om - Clojurescript)
+  desc: A simple but realistic comments box based on ReactJS tutorial.
   source: https://github.com/juancjara/Comment-box-Om
 - 
-  name: Url shortener
-  desc: Project created for interview prep day on Recurse Center. (Clojure - clojurescript)
+  name: Url shortener (Clojure - clojurescript)
+  desc: Project created for interview prep day on Recurse Center. 
   source: https://github.com/juancjara/url-shortener
 - 
-  name: TwitchTV shortcuts 
+  name: TwitchTV shortcuts (Javascript)
   desc: >-
     Chrome extension to control TwitchTV pastbroadcast videos using keyboards shortcuts.
-    Also, it saves the last state of the video to be resume next time you watch it. (Javascript)
+    Also, it saves the last state of the video to be resume next time you watch it.
   source: https://github.com/juancjara/twitch-tv-keyboard-shortcuts
   app: 
     url: https://chrome.google.com/webstore/detail/twitch-keyboard-shortcuts/pfdnkciodgpiannbheoheddfdnkbboha?hl=es-419
     title: Chrome Web Store
 - 
-  name: Sharks with laser beams
+  name: Sharks with laser beams (NodeJS)
   desc: >-
     A utility for arming (creating) many sharks (DigitalOcean Droplets) to attack (load test)
-    targets (web applications). (NodeJS)
+    targets (web applications).
   source: https://github.com/juancjara/sharks-with-laser-beams
 - 
-  name: 2048 game
+  name: 2048 game (C)
   desc: >-
     Simple terminal version of 2048 without pointers. Focus on writing readable and clean code.
-    (C)
   source: https://github.com/juancjara/2048-terminal
 - 
-  name: Phonebook
+  name: Phonebook (NodeJS - Mocha)
   desc: >-
     Project created for interview prep day on Recurse Center. Command line tool that manages phone
-    books file to SCRUD contacts data. (NodeJS - Mocha)
+    books file to SCRUD contacts data.
   source: https://github.com/juancjara/phone-book
 -
-  name: No hay basico
+  name: No hay basico (NodeJS - MongoDB - ReactJS)
   desc: >-
     Web Application which displays information about restaurants around my university such as
-    location, daily menu, ect. (NodeJS - MongoDB - ReactJS)
+    location, daily menu, ect.
   source: https://github.com/andreqi/nohaybasico
   app:
     url: http://www.nohaybasico.com
     title: Nohaybasico
 - 
-  name: Me voy por 20
+  name: Me voy por 20 (NodeJS - MongoDB - ReactJS)
   desc: >-
     Web Application which helps students of my university to simulate and find the average
-    grade of a course based on its formula. (NodeJS - MongoDB - ReactJS)
+    grade of a course based on its formula.
   source: https://github.com/juancjara/Grades-project
   app:
     url: http://104.131.28.224:8765
     title: Mevoyx20
 - 
-  name: Handle budget FxOS
-  desc: Firefox OS app to handle easily handle your budget. (Javascript ES6 - Less)
+  name: Handle budget FxOS (Javascript ES6 - Less)
+  desc: Firefox OS app to handle easily handle your budget.
   source: https://github.com/juancjara/money-app-firefox-os 
   app:
     url: https://marketplace.firefox.com/app/budget/
     title: Firefox Marketplace
 - 
-  name: My hangout
-  desc: Simple version of gmail chat. (NodeJS - ReactJS - MongoDB - SocketIO)
+  name: My hangout (NodeJS - ReactJS - MongoDB - SocketIO)
+  desc: Simple version of gmail chat.
   source: https://github.com/juancjara/my-hangout
   app:
     url: http://104.131.28.224:8001/
     title: My hangout
 - 
-  name: Guitar Hero FxOS
-  desc: Guitar hero game version for firefox OS phone. (Javascript)
+  name: Guitar Hero FxOS (Javascript)
+  desc: Guitar hero game version for firefox OS phone.
   source: https://github.com/juancjara/guitar-hero-firefox-os
   app:
     url: https://marketplace.firefox.com/app/guitar-heroes-2/
     title: Firefox Marketplace
 - 
-  name: Corredor Azul
-  desc: Android app which finds what bus you should take to travel betweentwo bus stops. (Android)
+  name: Corredor Azul (Android)
+  desc: Android app which finds what bus you should take to travel betweentwo bus stops.
   source: https://github.com/juancjara/Mvp
   app:
     url: https://play.google.com/store/apps/details?id=com.tryhard.mvp.app&hl=es_419
     title: Play Store
 - 
-  name: LMGTFY
-  desc: Chrome extension to create a query and place it in the copy buffer basedon Let me google that for you webpage. (Javascript - Stylus)
+  name: LMGTFY (Javascript - Stylus)
+  desc: Chrome extension to create a query and place it in the copy buffer basedon Let me google that for you webpage.
   source: https://chrome.google.com/webstore/detail/deja-que-busque-eso-en-go/kaamhgpodjkbdapnammkdnojlofcgfhe?utm_source=chrome-ntp-icon&authuser=1

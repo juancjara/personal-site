@@ -10,6 +10,12 @@
   desc: >-
     Simple WebRTC video chat application using Web sockets or Firebase as Signalling servers. 
   source: https://github.com/juancjara/web-rtc
+-
+  name: Bettson Notifier Chrome Extension (ES6 - ReactJS)
+  desc: >-
+    Extension which creates notifications when games results meet the requirements
+    to place a bet.
+  source: https://github.com/juancjara/bettson-notifier-chrome-extension
 - 
   name: Reminder Chrome Extension (Javascript ES6)
   desc: >-

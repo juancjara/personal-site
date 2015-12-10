@@ -55,12 +55,14 @@
 						<h2>Projects</h2>
 						<div class="row">
 
-              <article v-for="p in projects" class="6u 12u$(xsmall) work-item">
-								<h3><a href={{p.source}} target="_blank">{{p.name}}</a></h3>
-								<p>{{p.desc}}
-                  <a v-if='p.app' target="_blank" href={{p.app.url}}>{{p.app.title}}</a>
-                </p>
-							</article>
+              <template v-for="p in projects">
+                <article class="6u 12u$(xsmall) work-item">
+								  <h3><a href={{p.source}} target="_blank">{{p.name}}</a></h3>
+								  <p>{{p.desc}}
+                    <a v-if='p.app' target="_blank" href={{p.app.url}}>{{p.app.title}}</a>
+                  </p>
+                </article>
+							</template>
 
 					</div>
 					<!-- <ul class="actions">

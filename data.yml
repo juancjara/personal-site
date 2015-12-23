@@ -1,6 +1,14 @@
 --- 
+- name: Twitch tv spam Chrome Extension (ES6 - VueJS)
+  source: https://github.com/juancjara/chrome-extension-twich-tv-spam
+  desc: >-
+    Chrome Extension which attachs to twitch tv chat and stores stores
+    your spams for later use.
+  app:
+    url: https://chrome.google.com/webstore/detail/twitch-tv-spam/jkcnmbgkcgcceneenfmaenjikajncfbn?hl=es-419
+    title: Twitch Tv Spam
 -
-  name: Movie Rate App (React Native)
+  name: Movie Rate App (React Native - Flux = InmmutableJS)
   desc: >-
     React native version of an movie festival Android app that rate movies
      watched. (React Native)

@@ -1,4 +1,13 @@
 --- 
+- name: Crop image (ES6 - VueJS - Webpack)
+  source: https://github.com/juancjara/crop-image
+  desc: >-
+    I needed to crop an image to a specify size but I couldn't find a website for
+    that. So I created my own one.
+  app:
+    url: http://juancjara.github.io/crop-image/
+    title: crop image
+
 - name: Twitch tv spam Chrome Extension (ES6 - VueJS)
   source: https://github.com/juancjara/chrome-extension-twich-tv-spam
   desc: >-

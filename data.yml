@@ -49,7 +49,7 @@
   desc: Web simulator of the MOBA Dota 2 to practice hero combinations.
   source: https://github.com/juancjara/dota-game
   app:
-    url: http://www.dotapractice.com
+    url: http://104.131.28.224:7771/
     title: Dota practice
 - 
   name: Dynamic key shortcuts (Javascript)
@@ -101,7 +101,7 @@
     location, daily menu, ect.
   source: https://github.com/andreqi/nohaybasico
   app:
-    url: http://www.nohaybasico.com
+    url: http://104.131.28.224:4321/
     title: Nohaybasico
 - 
   name: Me voy por 20 (NodeJS - MongoDB - ReactJS)

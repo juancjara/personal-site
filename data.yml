@@ -1,4 +1,13 @@
---- 
+---
+- name: Steam achievemnts (ReactNative)
+  source: https://www.google.com
+  desc: >-
+    Android app currently in development. Hit project link to see design made by
+    <a href="http://michu6.github.io/karenvaldivia/" target="_blank" >@karen</a> .
+  app:
+    url: http://google.com
+    title: Beautiful design here
+
 - name: Crop image (ES6 - VueJS - Webpack)
   source: https://github.com/juancjara/crop-image
   desc: >-
@@ -22,10 +31,10 @@
     React native version of an movie festival Android app that rate movies
      watched. (React Native)
   source: https://github.com/juancjara/movie-rate-react-native
-- 
+-
   name: Video chat app WebRTC (Nodejs)
   desc: >-
-    Simple WebRTC video chat application using Web sockets or Firebase as Signalling servers. 
+    Simple WebRTC video chat application using Web sockets or Firebase as Signalling servers.
   source: https://github.com/juancjara/web-rtc
 -
   name: Bettson Notifier Chrome Extension (ES6 - ReactJS)
@@ -33,62 +42,62 @@
     Extension which creates notifications when games results meet the requirements
     to place a bet.
   source: https://github.com/juancjara/bettson-notifier-chrome-extension
-- 
+-
   name: Reminder Chrome Extension (Javascript ES6)
   desc: >-
     Simple as typing on an Omnibox "remind 10 to do something" so in 10 minutes
      you would get a reminder.
   source: https://github.com/juancjara/chrome-extension-starter
-- 
+-
   name: Cinema Twitter bot (NodeJS - MongoDB)
   desc: >-
     Twitter bot that listens for tweets which contain movie and cinema and retweet the schedule.
   source: https://github.com/juancjara/twitch-tv-keyboard-shortcuts
-- 
+-
   name: Dota practice (Coffeescript - ReactJS - Mocha)
   desc: Web simulator of the MOBA Dota 2 to practice hero combinations.
   source: https://github.com/juancjara/dota-game
   app:
     url: http://104.131.28.224:7771/
     title: Dota practice
-- 
+-
   name: Dynamic key shortcuts (Javascript)
   desc: >-
     Paste this script on your browser console and create custom shortcuts to any element on it.
   source: https://github.com/juancjara/dynamic-key-shortcuts
-- 
+-
   name: Json to survey (Javascript)
   desc: Create a survey with question dependencies from a json schema.
   source: https://github.com/juancjara/json-to-survey
-- 
+-
   name: Comment Box Om (Om - Clojurescript)
   desc: A simple but realistic comments box based on ReactJS tutorial.
   source: https://github.com/juancjara/Comment-box-Om
-- 
+-
   name: Url shortener (Clojure - clojurescript)
-  desc: Project created for interview prep day on Recurse Center. 
+  desc: Project created for interview prep day on Recurse Center.
   source: https://github.com/juancjara/url-shortener
-- 
+-
   name: TwitchTV shortcuts (Javascript)
   desc: >-
     Chrome extension to control TwitchTV pastbroadcast videos using keyboards shortcuts.
     Also, it saves the last state of the video to be resume next time you watch it.
   source: https://github.com/juancjara/twitch-tv-keyboard-shortcuts
-  app: 
+  app:
     url: https://chrome.google.com/webstore/detail/twitch-keyboard-shortcuts/pfdnkciodgpiannbheoheddfdnkbboha?hl=es-419
     title: Chrome Web Store
-- 
+-
   name: Sharks with laser beams (NodeJS)
   desc: >-
     A utility for arming (creating) many sharks (DigitalOcean Droplets) to attack (load test)
     targets (web applications).
   source: https://github.com/juancjara/sharks-with-laser-beams
-- 
+-
   name: 2048 game (C)
   desc: >-
     Simple terminal version of 2048 without pointers. Focus on writing readable and clean code.
   source: https://github.com/juancjara/2048-terminal
-- 
+-
   name: Phonebook (NodeJS - Mocha)
   desc: >-
     Project created for interview prep day on Recurse Center. Command line tool that manages phone
@@ -103,7 +112,7 @@
   app:
     url: http://104.131.28.224:4321/
     title: Nohaybasico
-- 
+-
   name: Me voy por 20 (NodeJS - MongoDB - ReactJS)
   desc: >-
     Web Application which helps students of my university to simulate and find the average
@@ -112,35 +121,35 @@
   app:
     url: http://104.131.28.224:8765
     title: Mevoyx20
-- 
+-
   name: Handle budget FxOS (Javascript ES6 - Less)
   desc: Firefox OS app to handle easily handle your budget.
-  source: https://github.com/juancjara/money-app-firefox-os 
+  source: https://github.com/juancjara/money-app-firefox-os
   app:
     url: https://marketplace.firefox.com/app/budget/
     title: Firefox Marketplace
-- 
+-
   name: My hangout (NodeJS - ReactJS - MongoDB - SocketIO)
   desc: Simple version of gmail chat.
   source: https://github.com/juancjara/my-hangout
   app:
     url: http://104.131.28.224:8001/
     title: My hangout
-- 
+-
   name: Guitar Hero FxOS (Javascript)
   desc: Guitar hero game version for firefox OS phone.
   source: https://github.com/juancjara/guitar-hero-firefox-os
   app:
     url: https://marketplace.firefox.com/app/guitar-heroes-2/
     title: Firefox Marketplace
-- 
+-
   name: Corredor Azul (Android)
   desc: Android app which finds what bus you should take to travel betweentwo bus stops.
   source: https://github.com/juancjara/Mvp
   app:
     url: https://play.google.com/store/apps/details?id=com.tryhard.mvp.app&hl=es_419
     title: Play Store
-- 
+-
   name: LMGTFY (Javascript - Stylus)
   desc: Chrome extension to create a query and place it in the copy buffer basedon Let me google that for you webpage.
   source: https://chrome.google.com/webstore/detail/deja-que-busque-eso-en-go/kaamhgpodjkbdapnammkdnojlofcgfhe?utm_source=chrome-ntp-icon&authuser=1

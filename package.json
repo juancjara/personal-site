@@ -10,7 +10,12 @@
   "author": "jcj",
   "license": "MIT",
   "dependencies": {
-    "vue": "^1.0.7",
-    "yamljs": "^0.2.4"
+    "vue": "^2.1.8",
+    "watchify": "^3.8.0",
+    "yamljs": "^0.2.8"
+  },
+  "repository": {
+    "url": "git@github.com:juancjara/juancjara.github.io.git",
+    "type": "git"
   }
 }

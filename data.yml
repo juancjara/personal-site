@@ -1,11 +1,11 @@
 ---
-- name: Steam achievemnts (ReactNative)
-  source: https://www.google.com
+- name: Steam achievements (ReactNative)
+  source: http://imgur.com/a/fvjsa
   desc: >-
-    Android app currently in development. Hit project link to see design made by
+    Android app which show off your steam's games and achievements. Currently in development. Hit project link to see design made by
     <a href="http://michu6.github.io/karenvaldivia/" target="_blank" >@karen</a> .
   app:
-    url: http://google.com
+    url: http://imgur.com/a/fvjsa
     title: Beautiful design here
 
 - name: Crop image (ES6 - VueJS - Webpack)
